@@ -1,18 +1,8 @@
 body {
   padding-top: 4.5rem;
-  position: relative;
-}
-
-.flag {
   background-image: url(flag.jpg);
   background-size: cover;
   background-position: left;
+  background-attachment: fixed;
   position: relative;
-  color: #eee;
-}
-
-.attribution {
-  position: absolute;
-  bottom: 0;
-  right: 0;
 }
