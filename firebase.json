@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "campaign-project",
     "public": ".",
     "ignore": [
       "firebase.json",
